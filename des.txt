@@ -1,0 +1,8 @@
+Today, I handled API requests in a professional way, ensuring I covered all edge cases. If I did not receive data from the backend or if there was a delay in getting the data, I created a loader to show users that something was happening. This improved user interaction. I also handled errors gracefully; if the data was not received, I displayed an error page after a 3-second loading period.
+
+I used Axios for requests and introduced the IIFE (Immediately Invoked Function Expression) concept. Additionally, I made my website responsive and developed both custom backend and frontend components. I set up a proxy to connect the backend with the frontend and created custom query hooks. To optimize performance, I canceled all previous requests to save the browser's memory.
+
+I believe you will appreciate the improvements I've made.
+
+Regards,
+M Noor e Nazar 

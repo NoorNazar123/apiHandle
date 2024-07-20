@@ -1,0 +1,16 @@
+
+.animation{
+  color: green;
+  cursor: pointer;
+  animation:lorder 1s ease-in-out alternate infinite ;
+  
+}
+
+@keyframes lorder {
+  from{
+    font-size: 5rem;
+  }
+  to{
+    font-size: 10rem;
+  }
+}
